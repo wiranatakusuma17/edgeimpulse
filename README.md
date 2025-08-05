@@ -42,7 +42,7 @@ Sistem klasifikasi aktivitas tangan (mengetik, berjalan, berlari, diam) secara r
   ![hardware](img/hardware.png)
   Penggunaan:
   
-  ![pengguna](img/pengguna.jpg)
+  ![pengguna](img/pengguna.png)
 - Menggunakan script `main.py` (lihat `/micropython/`) untuk merekam data selama 5 detik @100Hz (500 sampel)
 - Pastikan data disimpan ke SD Card dalam format `.csv`
 
