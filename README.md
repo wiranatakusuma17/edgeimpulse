@@ -82,18 +82,6 @@ Sistem klasifikasi aktivitas tangan (mengetik, berjalan, berlari, diam) secara r
 |-------------|--------------|
 | ![luar](img/outside.jpg) | ![dalam](img/inside.jpg) |
 
-## Struktur Proyek
-project/
-├── micropython/
-│ ├── main.py
-│ ├── mpu6050.py
-│ └── sdcard.py
-├── arduino/
-│ └── main.ino
-├── model/
-│ └── edge_impulse_model.zip
-└── data/
-└── *.csv
 
 ## Kontributor
 - I Putu Gede Sastra Ary Wirasana
