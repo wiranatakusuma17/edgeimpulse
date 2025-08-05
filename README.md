@@ -1,4 +1,4 @@
-# Klasifikasi Gerakan Tangan Menggunakan Sensor Akselerometer Berbasis Tinyml Dengan Edge Impulse
+# Klasifikasi Gerakan Tangan Menggunakan Sensor Akselerometer Berbasis TinyML Dengan Edge Impulse
 
 Sistem klasifikasi aktivitas tangan (mengetik, berjalan, berlari, diam) secara real-time menggunakan sensor akselerometer **MPU6050**, mikrokontroler **ESP32**, dan platform **Edge Impulse**. Proyek ini memanfaatkan **TinyML** untuk menjalankan inferensi langsung di perangkat ESP32.
 
