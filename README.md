@@ -2,6 +2,8 @@
 
 Sistem klasifikasi aktivitas tangan (mengetik, berjalan, berlari, diam) secara real-time menggunakan sensor akselerometer **MPU6050**, mikrokontroler **ESP32**, dan platform **Edge Impulse**. Proyek ini memanfaatkan **TinyML** untuk menjalankan inferensi langsung di perangkat ESP32.
 
+![berlari](img/example.gif)
+
 ## Fitur
 
 - Inferensi real-time langsung di ESP32 tanpa internet
@@ -76,11 +78,14 @@ Sistem klasifikasi aktivitas tangan (mengetik, berjalan, berlari, diam) secara r
 - **RAM Usage**: 1.4 KB
 - **Flash Usage**: 15.3 KB
 
-## Tampilan Sistem
+## Hasil Deployment ke Mikrokontroler
 
-| Tampak Luar | Tampak Dalam |
+| Aktivitas | Tampilan Sistem |
 |-------------|--------------|
-| ![luar](img/outside.jpg) | ![dalam](img/inside.jpg) |
+| Diam  | ![diam](img/diam.gif) |
+| Mengetik  | ![mengetik](img/mengetik.gif) |
+| Berjalan | ![berjalan](img/berjalan.gif) |
+| Berlari | ![berlari](img/berlari.gif) |
 
 
 ## Kontributor
