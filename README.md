@@ -76,7 +76,7 @@ Sistem klasifikasi aktivitas tangan (mengetik, berjalan, berlari, diam) secara r
 - **RAM Usage**: 1.4 KB
 - **Flash Usage**: 15.3 KB
 
-## 📷 Tampilan Sistem
+## Tampilan Sistem
 
 | Tampak Luar | Tampak Dalam |
 |-------------|--------------|
